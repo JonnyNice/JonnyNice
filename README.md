@@ -48,7 +48,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ianholsteen)
-
+<!-- 
 ### :zap: GitHub Stats
 
 <center>
@@ -58,7 +58,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
-</center>
+</center> -->
 
 [blog]: https://medium.com/@ianholsteen
 [linkedin]: https://www.linkedin.com/in/ianholsteen
