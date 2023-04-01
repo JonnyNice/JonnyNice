@@ -1,9 +1,9 @@
 ### Hi there, I'm Ian Holsteen👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=JonnyNice&color=yellow)</div>
 
-## I'm a Full stack Developer, Music Producer, Hiking Enthusiast and Great Cook!!!
+## I'm a Full stack Developer, Music Producer and Hiking Enthusiast!!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate with other content creators.
+- 🌱 I’m currently exploring new things in technology. 💡
+- 👯 I’m looking to connect with other musician/software engineers.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play piano and love cooking.
 
