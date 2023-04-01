@@ -56,5 +56,5 @@
 </center> -->
 
 [blog]: https://medium.com/@ianholsteen
-[linkedin]: https://www.linkedin.com/in/ianholsteen
+[linkedin]: https://www.linkedin.com/in/ian-holsteen
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh/
