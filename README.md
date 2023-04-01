@@ -1,6 +1,6 @@
 ### Hi there, I'm Ian Holsteen👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=JonnyNice&color=yellow)</div>
 
-## I'm a Full stack Developer, Music Procucer, Hiking Entheusiast, Traveller and Great Cook!!!
+## I'm a Full stack Developer, Music Producer, Hiking Enthusiast and Great Cook!!!
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 👯 I’m looking to collaborate with other content creators.
