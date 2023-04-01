@@ -11,7 +11,7 @@
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+<!-- [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow] -->
 <br />
 <br />
 
@@ -41,18 +41,13 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using Stripe API with React/Rails applications](https://medium.com/@ianholsteen/rails-and-react-stripe-api-calls-262d7ea32e0a)
-- [Low Latency &lpar;OLAP&rpar; Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
-- [Elastic Search Geo Point and Geo Shape Queries Explained](https://medium.com/geekculture/elastic-search-geo-point-and-geo-shape-queries-explained-df69ec157527?source=rss-730530feb059------2)
-- [Elastic Search Queries Hands-on Examples using Spring Boot and Kibana Dev Console](https://medium.com/geekculture/elastic-search-queries-hands-on-examples-fe5b2bc10c0e?source=rss-730530feb059------2)
-- [Standardize Data Format for Kafka Event streams using Apache Avro and Schema Evolution](https://medium.com/nerd-for-tech/standardize-data-format-for-kafka-event-streams-using-apache-avro-and-schema-evolution-a2df6924b54c?source=rss-730530feb059------2)
-- [Postgres JSONB Usage and performance analysis](https://medium.com/geekculture/postgres-jsonb-usage-and-performance-analysis-cdbd1242a018?source=rss-730530feb059------2)
-- [Spring Cloud Streams With Functional Programming Model](https://medium.com/geekculture/spring-cloud-streams-with-functional-programming-model-93d49696584c?source=rss-730530feb059------2)
-- [Outbox Pattern for reliable data exchange between Microservices](https://medium.com/codex/outbox-pattern-for-reliable-data-exchange-between-microservices-9c938e8158d9?source=rss-730530feb059------2)
-- [Change Data Capture, Use Cases and real-world example using Debezium](https://medium.com/geekculture/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49?source=rss-730530feb059------2)
-- [Resolve Hibernate N+1 problem](https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab?source=rss-730530feb059------2)
+- [Understanding State in React and using it to build a dark mode slider](https://medium.com/@ianholsteen/the-state-of-reactjs-910a996d23ae)
+- [Capitalization methods using JavaScript](https://medium.com/@ianholsteen/capitalization-with-javascript-d93e06e498af)
+- [Finding satisfaction in coding as a beginner Software Engineer](https://medium.com/@ianholsteen/software-engineering-as-a-beginner-finding-satisfaction-fe2fd4b41a9f)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://eresh-zealous.medium.com/)
+➡️ [more blog posts...](https://medium.com/@ianholsteen)
 
 ### :zap: GitHub Stats
 
