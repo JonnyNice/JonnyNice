@@ -40,7 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing and processing real-time time-series data with Influx DB](https://blog.devgenius.io/storing-and-processing-real-time-time-series-data-with-influx-db-5ba9bb015539?source=rss-730530feb059------2)
+- [Using Stripe API with React/Rails applications](https://medium.com/@ianholsteen/rails-and-react-stripe-api-calls-262d7ea32e0a)
 - [Low Latency &lpar;OLAP&rpar; Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
 - [Elastic Search Geo Point and Geo Shape Queries Explained](https://medium.com/geekculture/elastic-search-geo-point-and-geo-shape-queries-explained-df69ec157527?source=rss-730530feb059------2)
 - [Elastic Search Queries Hands-on Examples using Spring Boot and Kibana Dev Console](https://medium.com/geekculture/elastic-search-queries-hands-on-examples-fe5b2bc10c0e?source=rss-730530feb059------2)
